@@ -8,3 +8,5 @@ Principal components of gene expression are extracted and interpolated across th
 This results in a map with 22 gene expression principal components for each of the ~10,000 nodes in the fsaverage5 suface.
 Finally, hierachical clustering with complete linkage is used to parcellate the cortex; we cut the tree to optain 10, 25, 50, or 100 clusters. 
 The maps are available as annotation files for fsaverage5.
+
+For more details see the poster presented at OHBM2020 here: http://altmann.eu/documents/posters/OHBM2020_Altmann_transcriptomics.pdf
